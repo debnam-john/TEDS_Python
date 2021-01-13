@@ -1,1 +1,3 @@
-# TEDS_Python
+# TEDS Program
+### Python Workspace
+### AI/ML and generic Python practice
